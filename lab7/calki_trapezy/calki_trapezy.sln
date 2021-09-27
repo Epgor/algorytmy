@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calki_trapezy", "calki_trapezy\calki_trapezy.pyproj", "{D9C512B1-9609-403D-A83C-F315E9DABBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C512B1-9609-403D-A83C-F315E9DABBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C512B1-9609-403D-A83C-F315E9DABBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A2936C-3164-47BE-BB55-0827F48390F8}
+	EndGlobalSection
+EndGlobal

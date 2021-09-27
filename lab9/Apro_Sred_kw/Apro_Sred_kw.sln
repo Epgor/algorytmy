@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Apro_Sred_kw", "Apro_Sred_kw\Apro_Sred_kw.pyproj", "{E02CCE61-F20B-4A5E-9542-63E8C16339E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02CCE61-F20B-4A5E-9542-63E8C16339E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02CCE61-F20B-4A5E-9542-63E8C16339E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55909A8-A466-49B9-B9ED-4E7B2D57A894}
+	EndGlobalSection
+EndGlobal
